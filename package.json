@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typings": "0.7.12"
+    "typings": "1.0.4"
   }
 }
